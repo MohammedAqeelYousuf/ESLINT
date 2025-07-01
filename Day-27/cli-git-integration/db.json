@@ -1,0 +1,12 @@
+{
+    "users":{
+        "id":1,
+        "username": "aqeel",
+        "email":"aqeel@gmail.com"
+    },
+    "friends":[
+        {"id":1,"name":"abcd"},
+        {"id":2,"name":"efgh"},
+        {"id":3,"name":"ijkl"}
+    ]
+}

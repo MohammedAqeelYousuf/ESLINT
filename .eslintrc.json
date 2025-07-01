@@ -4,6 +4,10 @@
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off",
     "quotes": ["error", "single"],
-    "semi": ["error", "always"]
+    "semi": ["error", "always"],
+    "eqeqeq": ["error", "always"],     
+    "no-unused-vars": ["warn"],                        
+    "curly": ["error", "all"],                         
+    "indent": ["error", 2]        
   }
 }

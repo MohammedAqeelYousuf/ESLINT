@@ -25,6 +25,11 @@
     "format": "prettier . --write",
     "prepare": "husky"
   },
+  "lint-staged": {
+  "src/**/*.{js,jsx}": [
+    "eslint"
+  ]
+},
   "eslintConfig": {
     "extends": [
       "react-app",
